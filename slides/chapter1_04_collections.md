@@ -92,7 +92,7 @@ participants.insert(0, 'Louis') # insert element at index 0 (shifts everything t
 # ['Louis', 'Bob', 'Bill', 'Sarah', 'Max', 'Jill', 'Jack', 'Anna', 'Bill']
 participants.remove('Jill') # searches for first instance and removes it
 # ['Louis', 'Bob', 'Bill', 'Sarah', 'Max', Jack', 'Anna', 'Bill']
-participants.pop(1) # removes the element at index 0 and returns it
+participants.pop(1) # removes the element at index 1 and returns it
 # ['Louis', 'Bill', 'Sarah', 'Max', Jack', 'Anna', 'Bill']
 
 # not a method, but in this way you can change the value(s) of the list

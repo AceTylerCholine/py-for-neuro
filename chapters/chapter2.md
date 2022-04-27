@@ -17,7 +17,7 @@ id: 2
 
 <exercise id="2" title="Time to practice">
 
-**Exercise 1**. Given a string `my_sting` count all word characters, digits, and special symbols in it. For example, string `"h336^"` has 1 word character, 3 digits, and 1 special symbol.
+**Exercise 1**. Given a string `my_string` count all word characters, digits, and special symbols in it. For example, string `"h336^"` has 1 word character, 3 digits, and 1 special symbol.
 
 <codeblock id="02_01">
 
